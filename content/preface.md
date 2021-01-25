@@ -1,19 +1,15 @@
 # Preface
 
-Welcome to the book
+Preface top-level
 
-## Who
+## Preface subsection
 
-Who's this book for
+preface H2 subsection 1
 
-## What
+## Another subsection
 
-What's the book about
+preface H2 subsection 2
 
-## Why
+### Subsubsection
 
-Why does this exist?
-
-### Answer
-
-To test flat toc layouts for `pdflatex` builder
+Preface H3 subsection 2.1

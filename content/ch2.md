@@ -1,7 +1,7 @@
-# Matplotlib
+# Chapter 2
 
-Visualization
+Ch. 2 top level
 
-## pyplot
+## Ch2section1
 
-Interactive
+e.g. 2.1
